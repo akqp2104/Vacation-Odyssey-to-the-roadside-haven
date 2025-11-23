@@ -27,7 +27,7 @@ A small Unity visual novel demo, created purely for fun and as a learning experi
 
 - All game logic, code, and scene setup: By [your name / GitHub username]
 
-## 🚀 How to Play
+## 🚀 Getting started
 - Download or clone the repository
 
 - Open the project in Unity (2021 or newer recommended)
