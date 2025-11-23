@@ -9,9 +9,9 @@ A small Unity visual novel demo, created purely for fun and as a learning experi
 
 - Free, copyright-safe soundtracks and backgrounds sourced from the internet
 
-- Custom scripting for text, controls, and visual logic by the repository owner
+- Interactive story system powered by Inky (Ink scripting language) for all dialogue, choices, and branching narration
 
-- Playable demo structure and core logic provided in C# and Ink
+- All game logic, code, scene setup and scripting made by me.
 
 ## 🕹 Controls
 - Advance dialogue by pressing Space or Left Mouse Click
@@ -19,13 +19,6 @@ A small Unity visual novel demo, created purely for fun and as a learning experi
 - Text also auto-advances at a reading pace
 
 - Make choices by clicking selectable options on screen
-
-## 📦 Attribution
-- Character art: mir.mape
-
-- Soundtracks & images: Free copyright sources from the internet
-
-- All game logic, code, and scene setup: By [your name / GitHub username]
 
 ## 🚀 Getting started
 - Download or clone the repository
