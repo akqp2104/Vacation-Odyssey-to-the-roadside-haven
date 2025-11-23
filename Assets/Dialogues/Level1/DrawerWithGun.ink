@@ -1,0 +1,1 @@
+I found a gun here. #layout:centre

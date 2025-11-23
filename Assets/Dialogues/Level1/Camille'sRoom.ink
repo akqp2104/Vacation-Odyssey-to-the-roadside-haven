@@ -1,0 +1,1 @@
+This is camille's room. #layout:centre
